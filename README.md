@@ -3,6 +3,9 @@
 ## Languages
 - [x] Python
 - [x] Golang
+- [ ] Clojure
+- [ ] Dart
+- [ ] Rust 
 
 
 ## Python
